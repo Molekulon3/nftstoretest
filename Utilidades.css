@@ -33,7 +33,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 379px;
+  min-height: 737px;
 }
 
 .u-section-2 .u-text-1 {
@@ -78,5 +78,18 @@
   .u-section-2 .u-custom-html-2 {
     width: 340px;
   }
+}.u-section-3 {
+  background-image: linear-gradient(#478ac9, #db545a);
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-3 .u-custom-html-1 {
+  min-height: 31px;
+  height: auto;
+  width: 201px;
+  margin: 96px auto 60px;
 }.botoncompra {padding:50; font-size:30px; font-color:white;
 }
